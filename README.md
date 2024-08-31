@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fernando Seguins
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Fernando Seguins
 ========================================================================================================================================
 
-Pernambucano de 24 anos, apaixonado por design e tecnologias visuais. Atualmente, curso Service Design e Desenvolvimento Web.😀
+Pernambucano de 26 anos, apaixonado por programação e suas tecnologias. Atualmente, curso Análise e Desenvolvimento de Sistemas.😀
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Recife, Pernambuco
-* 🧠  I'm learning JavaScript , Angular and Python
+* 🧠  I'm learning...
 
 ### Skills
 
